@@ -15,10 +15,10 @@
 
 ## 🌍 Let's Connect  
 <p align="left">
-<a href="YourLinkedInLink" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="YourTwitterLink" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="YourPortfolioLink" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:YourEmail" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="[YourLinkedInLink](https://www.linkedin.com/in/om-darade-3499102b1/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<a href="[YourPortfolioLink](https://portfolio-kappa-nine-iyh3p3yu0t.vercel.app/)" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:omdarade1944@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ### 🚀 Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+ 
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
@@ -46,14 +46,14 @@
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
 </p>
 
 ### 🔧 Tools & DevOps  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 </p>
 
 ---
