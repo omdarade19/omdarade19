@@ -15,7 +15,7 @@
 
 ## 🌍 Let's Connect  
 <p align="left">
-<a href="(https://www.linkedin.com/in/om-darade-3499102b1/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/om-darade-3499102b1/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="(https://portfolio-kappa-nine-iyh3p3yu0t.vercel.app/)" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:omdarade1944@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
